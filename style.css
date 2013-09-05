@@ -1,0 +1,41 @@
+body{
+	background-image:url(http://loadpaper.com/large/Antique_wallpapers_144.jpg);
+	background-size: 1920x1200;
+	background-position: top center; 
+	padding: 50px;
+	margin: 30px;
+	line-height: 60px;
+	font-size: 24px;
+	font-family: helvetica;
+	font-style: bold;
+	padding-left: 12px;
+	padding-top: 36;
+}
+
+header{}
+header h1{}
+
+section.pillars{
+}
+
+section.pillars blockquote{
+
+	color: blue;
+	font-size: 50px;
+}
+
+section.firsttitle{
+	color: green;
+	font-family: times;
+	font-size: 25px;
+
+}
+section .happy_pig{
+	text-align: center;
+}
+
+section .dot_points{
+	font-size: 20px;
+	color: blue; 
+	
+}
